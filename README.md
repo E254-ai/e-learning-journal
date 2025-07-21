@@ -1,4 +1,4 @@
-# e-learning-journal
+# e254-learning-journal
 
 -a beginner diving into the world of tech, Python, and AI in 2025.  
 This repository tracks my journey from Day 1 of learning to code, all the way through to building small projects and using real AI tools.
